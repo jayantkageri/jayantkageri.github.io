@@ -3,10 +3,10 @@
 I am living in Sirsi, Uttar Kannada, Karnataka, India 🇮🇳
 
 # I am Expert in :
-• Python
-• Gaming
-• Logo Making
-• Website Design (But not in GitHub)
+# • Python
+# • Gaming
+# • Logo Making
+# • Website Design (But not in GitHub)
 # Follow Me @ Social Media
   #[Instagram](instagram.com/jayantkageri)
   #Snapchat ID - jayantkageri
