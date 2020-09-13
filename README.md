@@ -4,6 +4,7 @@ I am living in Sirsi, Uttar Kannada, Karnataka, India 🇮🇳
 
 # I am Expert in :
 # • Python
+I know I don't have any Public Respiratory ! Because My all Projects are Private
 # • Gaming
 # • Logo Making
 # • Website Designing 
