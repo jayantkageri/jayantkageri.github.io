@@ -6,7 +6,7 @@ I am living in Sirsi, Uttar Kannada, Karnataka, India 🇮🇳
 # • Python
 # • Gaming
 # • Logo Making
-# • Website Design (But not in GitHub)
+# • Website Designing ( I know this Site is too Simple, Because I don't have anything to tell ! )
 
 # Follow Me @ Social Media
 [Instagram](instagram.com/jayantkageri)
