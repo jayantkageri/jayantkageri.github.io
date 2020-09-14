@@ -8,7 +8,7 @@ I am living in Sirsi, Uttar Kannada, Karnataka, India 🇮🇳
 - Gaming
 - Logo Making
 - Website Designing 
-I know this Site is too Simple, Because I don't have anything to tell !
+-- I know this Site is too Simple, Because I don't have anything to tell !
 
 # Follow Me @ Social Media
 - [Instagram](https://instagram.com/jayantkageri)
