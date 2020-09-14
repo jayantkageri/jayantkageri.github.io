@@ -11,6 +11,6 @@ I know I don't have any Public Respiratory ! Because My all Projects are Private
 I know this Site is too Simple, Because I don't have anything to tell !
 
 # Follow Me @ Social Media
-- [Instagram](instagram.com/jayantkageri)
+- [Instagram](https://instagram.com/jayantkageri)
 - Snapchat ID - jayantkageri
-- [Telegram Account](t.me/jayantkageri)
+- [Telegram Account](https://telegram.dog/jayantkageri)
