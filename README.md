@@ -14,7 +14,7 @@ I am living in Sirsi, Uttar Kannada, Karnataka, India 🇮🇳
 - Donation Link : [https://me.fampay.in/jayantkageri](https://me.fampay.in/jayantkageri)
 ```
 A Little Donation also Helps,
-It helps me to pay the Server Charges Monthly,
+It helps me to pay the Server Charges of My Bot Monthly,
 So, A Little Donation also Helps me !
 Donate Now !
 ```
