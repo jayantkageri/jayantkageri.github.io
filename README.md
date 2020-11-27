@@ -10,9 +10,6 @@ I am living in Sirsi, Uttar Kannada, Karnataka, India 🇮🇳
 - Website Designing 
 -- I know this Site is too Simple, Because I don't have anything to tell !
 
-# Follow Me @ Social Media
-- [Instagram](https://instagram.com/jayantkageri)
-- Snapchat ID - jayantkageri
-- [Telegram Account](https://telegram.dog/jayantkageri)
+[!][Social Media](https://t.ly/jayantkageri)
 
 # KNOW MORE ABOY ME AT [HERE](https://telegram.dog/Know_About_Your_Dad)
