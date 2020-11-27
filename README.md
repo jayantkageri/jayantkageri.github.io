@@ -24,6 +24,7 @@ Donate Now !
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayantkageri&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[!][My [Social Media](https://t.ly/jayantkageri) Links are Listed at [t.ly/jayantkageri](https://t.ly/jayantkageri)]
+### Follow me at My All of Social Media Network
+My [Social Media](https://t.ly/jayantkageri) Links are Listed at [t.ly/jayantkageri](https://t.ly/jayantkageri)
 
 ### KNOW MORE ABOUT ME AT [HERE](https://telegram.dog/Know_About_Your_Dad)
