@@ -11,7 +11,7 @@ I am living in Sirsi, Uttar Kannada, Karnataka, India 🇮🇳
 -- I know this Site is too Simple, Because I don't have anything to tell !
 
 ### Donation
-- Donation Link : https://me.fampay.in/jayantkageri
+- Donation Link : [https://me.fampay.in/jayantkageri](https://me.fampay.in/jayantkageri)
 ```
 A Little Donation also Helps,
 It helps me to pay the Server Charges Monthly,
@@ -24,6 +24,6 @@ Donate Now !
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayantkageri&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-My [Social Media](https://t.ly/jayantkageri) Links are Listed at https://t.ly/jayantkageri
+### My [Social Media](https://t.ly/jayantkageri) Links are Listed at https://t.ly/jayantkageri
 
 # KNOW MORE ABOY ME AT [HERE](https://telegram.dog/Know_About_Your_Dad)
