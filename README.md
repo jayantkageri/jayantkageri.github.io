@@ -19,12 +19,13 @@ So, A Little Donation also Helps me !
 Donate Now !
 ```
 
+### Follow me at My All of Social Media Network
+My [Social Media](https://t.ly/jayantkageri) Links are Listed at [t.ly/jayantkageri](https://t.ly/jayantkageri)
+
+
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayantkageri&show_icons=true&theme=tokyonight&include_all_commits=false)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayantkageri&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-
-### Follow me at My All of Social Media Network
-My [Social Media](https://t.ly/jayantkageri) Links are Listed at [t.ly/jayantkageri](https://t.ly/jayantkageri)
 
 ### KNOW MORE ABOUT ME AT [HERE](https://telegram.dog/Know_About_Your_Dad)
