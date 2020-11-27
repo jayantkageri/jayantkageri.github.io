@@ -23,7 +23,7 @@ Donate Now !
 - My [Social Media](https://t.ly/jayantkageri) Links are Listed at [t.ly/jayantkageri](https://t.ly/jayantkageri)
 
 ### My GitHub Stats are as Follows :
-![@JAYANTKAGERI'S GitHub Stars](https://github-readme-stats.vercel.app/api?username=jayantkageri&show_icons=true&theme=tokyonight&include_all_commits=false)
+![@JAYANTKAGERI'S GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayantkageri&show_icons=true&theme=tokyonight&include_all_commits=false)
 
 [![@JAYANTKAGERI'S Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayantkageri&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
